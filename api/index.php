@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Generador de Enlaces de WhatsApp - Nayeli Paitan</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="icon" href="img/icon.ico" type="image/x-icon">
+    <link rel="icon" href="icon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
         @keyframes float-slow {
@@ -69,7 +69,7 @@
 
         <div class="container mx-auto px-4 py-8 max-w-5xl flex-grow" id="inicio">
             <div class="text-center mb-10 max-w-2xl mx-auto">
-                <img src="img/logo.png" alt="Logo" class="w-44 sm:w-56 h-auto mx-auto -mb-6 object-contain rounded-2xl shadow-xl">
+                <img src="logo.png" alt="Logo" class="w-44 sm:w-56 h-auto mx-auto -mb-6 object-contain rounded-2xl shadow-xl">
                 <h1 class="text-xl sm:text-3xl font-extrabold text-white tracking-tight leading-tight">Generador de Enlaces de WhatsApp</h1>
                 <p class="text-slate-400 mt-3 text-sm sm:text-base">Crea links directos con mensajes predeterminados y códigos QR en segundos de forma gratuita.</p>
             </div>
